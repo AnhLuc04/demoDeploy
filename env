@@ -1,0 +1,11 @@
+ENERGY=20 GeV
+
+JDBC_DATABASE_URL=postgres://ec2-54-225-214-37.compute-1.amazonaws.com:5432/d7fdj6o2ctt3gp
+
+JDBC_DATABASE_USERNAME=ukogocaabbbamm
+
+JDBC_DATABASE_PASSWORD=070d53cb794d5bed05e9586adf31b3ab99a3004a067e99e459e60449a9728276
+
+JDBC_DATABASE_DRIVER=org.postgresql.Driver
+
+SPRING_JPA_HIBERNATE_DIALECT=org.hibernate.dialect.PostgreSQL9Dialect
